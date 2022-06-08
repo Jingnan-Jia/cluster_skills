@@ -2,8 +2,10 @@
 
 ## Summary of Shark cluster GPU nodes for LKEBers
 
-|    Hostname    	| Cores 	| Memory (GiB) 	| GPUs 	|   GPU_type  	| GPU_cores 	| GPU_mem (GiB) 	| cpus_per_gpu 	| mem_per_gpu (GiB) 	|
+|                	|       	|              	|      	|             	|           	|               	|    Result    	|       Result      	|
 |:--------------:	|:-----:	|:------------:	|:----:	|:-----------:	|:---------:	|:-------------:	|:------------:	|:-----------------:	|
+|    Hostname    	| Cores 	| Memory (GiB) 	| GPUs 	|   GPU_type  	| GPU_cores 	| GPU_mem (GiB) 	| cpus_per_gpu 	| mem_per_gpu (GiB) 	|
+|                	|       	|              	|      	|             	|           	|               	|              	|                   	|
 |  res-hpc-gpu01 	|   48  	|      512     	|   3  	|   TitanXp   	|    3840   	|       12      	|      16      	|        170        	|
 |  res-hpc-gpu02 	|   48  	|      512     	|   2  	|   TitanXp   	|    3840   	|       12      	|      24      	|        256        	|
 |  res-hpc-gpu03 	|   6   	|      48      	|   1  	| GRIDV10032g 	|   16384   	|       32      	|       6      	|         48        	|
